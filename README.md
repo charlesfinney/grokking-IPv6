@@ -1,4 +1,8 @@
+#### You are very welcome to [contribute info or links](https://github.com/charlesfinney/grokking-IPv6/issues/new)
+<p align="center"><img src="https://github.com/charlesfinney/grokking-IPv6/blob/master/site-images/IPv6-logo.png" alt="IPv6 Logo"></p>
+
 # grokking-IPv6
+## Course Purpose: 
 learn and grok IPv6 (Internet Protocol version 6)
 
 
