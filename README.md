@@ -1,6 +1,12 @@
-# grokking-IPv6
-learn and grok IPv6 (Internet Protocol version 6)
+#### You are always welcome to [contribute info or links](https://github.com/charlesfinney/grokking-IPv6/issues/new)
+<p align="center"><img src="https://github.com/charlesfinney/grokking-IPv6/blob/master/site-images/IPv6-logo.png" alt="IPv6 Logo"></p>
 
+# grokking-IPv6
+  
+    
+## Course Purpose: 
+To learn and grok IPv6 (Internet Protocol version 6).
+  
 
 <h2>What is IPv6</h2>
 
