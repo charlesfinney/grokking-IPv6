@@ -13,3 +13,7 @@ example `2000:0bd2:76c4:0000:a4b7:0000:d56h:3467`
 * IPv6 is a "seperate internet" from the IPv4 internet protocol
 there are gateways between IPv6 and IPv4 to provide tunnels 
 * from now on there will be IPv6 only websites 
+
+![IOT Chart]](https://github.com/charlesfinney/grokking-IPv6/blob/master/site-images/iot2.png)
+  
+  
