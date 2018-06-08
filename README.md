@@ -19,6 +19,8 @@ example `2000:0bd2:76c4:0000:a4b7:0000:d56h:3467`
 * IPv6 is a "seperate internet" from the IPv4 internet protocol
 there are gateways between IPv6 and IPv4 to provide tunnels, and from now on there will be IPv6 only websites 
 * Blockchain technology and new forms of IOT crypto currencies will be the only way to provide effective internet security by applying market forces to hack attacks.
+  
 ![IOT Chart](https://github.com/charlesfinney/grokking-IPv6/blob/master/site-images/iot2.png)
   
   
+<h2>Why IPv6?</h2>
